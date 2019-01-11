@@ -110,7 +110,7 @@ if [ ! -z $COMPOSITE ] ; then {
 
 rm tempfile.png
 
-base_colors="red orange yellow lime green aqua cyan skyblue blue violet magenta redviolet"
+base_colors="red orange yellow lime green spring cyan azure blue violet magenta fuchsia"
 
 echo -e -n "\nGenerating filenames based on "$BASE"_base.png"
 if [ ! -z $COMPOSITE ] ; then {
